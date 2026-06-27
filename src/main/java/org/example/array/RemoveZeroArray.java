@@ -1,8 +1,8 @@
-package org.example;
+package org.example.array;
 
 import java.util.Arrays;
 
-public class removeZeroArray {
+public class RemoveZeroArray {
     public static void main(String[] args) {
         //System.out.println("Hello World");
 

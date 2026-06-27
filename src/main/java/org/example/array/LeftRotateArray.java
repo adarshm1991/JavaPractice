@@ -1,8 +1,8 @@
-package org.example;
+package org.example.array;
 
 import java.util.Arrays;
 
-public class leftRotateArray {
+public class LeftRotateArray {
     public static void main(String[] args) {
         int[] arrLeft = {1,2,3,4,5};
         int leftRotBy = 2;

@@ -1,8 +1,8 @@
-package org.example;
+package org.example.array;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class SecondLargestElementArray {
     public static void main(String[] args) {
          int[] array = {1,2,6,4,5,3};
 

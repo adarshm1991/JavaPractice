@@ -1,8 +1,8 @@
-package org.example;
+package org.example.array;
 
 import java.util.Arrays;
 
-public class leaderArrayProblem {
+public class LeaderArrayProblem {
     public static void main(String[] args) {
         int[] leaderArrayProb = {1,10,15,67,34,12,9,2};
         int len = leaderArrayProb.length;
